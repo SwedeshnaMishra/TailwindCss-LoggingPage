@@ -1,1 +1,1 @@
-Logging Page
+**Logging Page**
